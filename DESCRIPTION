@@ -1,4 +1,4 @@
-Package: Rphenograph
+Package: Rphenograph_samGG
 Title: R implementation of the phenograph algorithm
 Version: 0.99.1.9003
 Authors@R: c(
